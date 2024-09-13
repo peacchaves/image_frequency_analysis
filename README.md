@@ -4,7 +4,7 @@ This package performs Fourier Transform on images and compares the resulting fre
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_frequency_analysis
 
 ```bash
 pip install image_frequency_analysis
