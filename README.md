@@ -1,8 +1,6 @@
 # Image Frequency Analysis
 
-Description. 
-The package Image Frequency Analysis is used to:
-	- This package performs Fourier Transform on images and compares the resulting frequencies.
+This package performs Fourier Transform on images and compares the resulting frequencies.
 
 ## Installation
 
